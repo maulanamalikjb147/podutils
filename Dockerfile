@@ -1,6 +1,6 @@
 FROM --platform=linux/amd64 alpine:latest
 
-MAINTAINER Viki Pranata <helovikipranata@gmail.com>
+MAINTAINER Viki Pranata <maulanamalikjb147@gmail.com>
 
 WORKDIR /temp
 
